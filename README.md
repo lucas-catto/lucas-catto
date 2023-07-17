@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning programming with PHP
+- 🌱 I’m currently learning programming with PHP and Laravel
 
 <div>
     <a href="https://github.com/lucascsilva0">

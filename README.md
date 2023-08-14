@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning programming with PHP and Laravel
 
 <div>
-    <a href="https://github.com/lucascsilva0">
+    <a href="https://github.com/lucas-catto">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascsilva0&show_icons=true&theme=dracula&include_all_commits=true$count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascsilva0&layout=compact&langs_count=16&theme=dracula"/>
 </div>
